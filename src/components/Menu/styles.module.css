@@ -9,7 +9,6 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-weight: bold;
   text-decoration: none;
   background: var(--primary);
   color: var(--text-over-primary);
@@ -19,7 +18,7 @@
 }
 
 .menuLink:hover {
-  filter: brightness(50%);
+  filter: brightness(80%);
 }
 
 .menuLink svg {
